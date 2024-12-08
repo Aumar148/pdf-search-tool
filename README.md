@@ -1,2 +1,2 @@
 # pdf-search-tool
-A repo for a PDF file keyword search
+A tool for a PDF file keyword search
